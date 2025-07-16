@@ -1,7 +1,7 @@
 # Motion_simulator_App
 It's a Python Project that simulates Motion of an object using Physic formulas
 
-##Self Introduction 
+## Self Introduction 
 
 Hey! it's **Zahabia Ahmed** here ,currently studying AI and Data Sciences with Python from **S.M.I.T** by **Miss Aqsa Moiz** ,and it's a Project Assigned by her.
 
