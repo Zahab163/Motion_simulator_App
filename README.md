@@ -1,3 +1,8 @@
+## Self Introduction 
+Hey! it's **Zahabia Ahmed** currently studying AI and Data Sciences froom S.M.I.T , our Professor is **Miss Aqsa Moiz** .This Assignment is Assign to us by her.
+
+ 
+
 # Motion_simulator_App
 It's a Python Project that simulates Motion of an object using Physic formulas.
 ##Motion Simulator
