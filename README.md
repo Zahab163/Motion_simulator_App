@@ -140,53 +140,6 @@ https://github.com/user-attachments/assets/53fa79fa-71d0-428c-bb6d-caa1d13a8684
 
 Motion_Simulator_App/ ├── app.py                  # Main Streamlit interface ├── motion.py              # Handles motion calculations ├── simulator.py           # Runs simulation logic ├── utils.py               # Utility functions ├── history.json           # Logs user simulation history ├── requirements.txt       # Dependency file └── README.md              # This file
 
----
-
-## ⚙️ Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Zahab163/Motion_Simulator_App.git
-   cd Motion_Simulator_App
-
-
-- Create virtual environment (optional but recommended)
-python -m venv env
-env\Scripts\activate
-- Install dependencies
-pip install -r requirements.txt
-
-
-- Run the app
-streamlit run app.py
-
-
-
-📊 Graphs & Visualization
-This app uses [Matplotlib/Plotly] to generate:
-- Velocity-Time Graph
-- Displacement-Time Graph
-- Acceleration-Time Graph
-To customize or expand graphing features, explore simulator.py and motion.py.
-
-🧪 Physics Behind the Scenes
-The app simulates uniformly accelerated motion using formulas:
-- Velocity: v = u + at
-- Displacement: s = ut + (1/2)at²
-- Acceleration: Constant input by user
-
-🗂 Version Control
-This project uses Git for version control.
-Branch strategy: main for stable releases.
-Feel free to fork or contribute via pull requests.
-
-📬 Connect
-Created with 💡 by Zahabia
-🔗 LinkedIn
-📂 GitHub Portfolio
-
-📄 License
-MIT License
 
 
 
