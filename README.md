@@ -27,6 +27,7 @@ streamlit run app/app.py
 
 ### 📁 Project Structure
 physics-motion-simulator/
+
 ├── main.py
 
 ├── motion.py # Physics logic 
