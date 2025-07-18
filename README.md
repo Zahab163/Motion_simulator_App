@@ -26,14 +26,27 @@ streamlit run app/app.py
 ```
 
 ### 📁 Project Structure
-```
-Motion_simulator/
-├── app/
-│   └── app.py
+physics-motion-simulator/
+├── main.py
+
+├── motion.py # Physics logic 
+
+├── simulator.py # Simulation functions
+
+├── utils.py # History handling
+
+├── data/
+
+│ └── history.json # Saved results
+
+├── app.py # Main Streamlit app
+
 ├── venv/
-├── requirements.txt
-└── README.md
-```
+
+├── requirements.txt # Python dependencies
+
+
+
 
 ### 🌐 Live Demo
 Coming soon via Streamlit Cloud!
