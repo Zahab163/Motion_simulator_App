@@ -51,7 +51,8 @@ physics-motion-simulator/
 
 ### 🌐 Live Demo
 Coming soon via Streamlit Cloud!
-Screen Video:https://screenrec.com/share/0gyFbmfsBv
+Live Stream from Here : https://youtu.be/ifxu9kW-sOM?si=egaWj5O8m9p3fbbI
 
 ### 👩‍💻 Author
 Created by Zahabia — blending physics with interactive design.
+
